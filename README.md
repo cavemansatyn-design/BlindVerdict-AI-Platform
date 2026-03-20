@@ -6,12 +6,13 @@
 
 <p align="center">
   <strong>AI-Powered Legal Accessibility & Case Management Platform</strong>
+  Hosted Link- https://blind-verdict-main-jmfl.vercel.app/
 </p>
 
 
 
 <p align="center">
-  Hosted Link- https://blind-verdict-main-jmfl.vercel.app/
+  
   <img src="https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
