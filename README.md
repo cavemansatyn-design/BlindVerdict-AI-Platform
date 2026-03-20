@@ -6,7 +6,11 @@
 
 <p align="center">
   <strong>AI-Powered Legal Accessibility & Case Management Platform</strong>
-  Hosted Link- https://blind-verdict-main-jmfl.vercel.app/
+  
+</p>
+
+<p align="center">
+Hosted Link- https://blind-verdict-main-jmfl.vercel.app/
 </p>
 
 
